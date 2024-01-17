@@ -2,9 +2,6 @@
 <h1 align="center">Hola, soy Rodrigo Revilla </a> 👋</h1>
 </div>
 
-[![x]]([https://youtube.com/aristidevs?sub_confirmation=1](https://twitter.com/RodrigoRevilla0))
-![LinkedIn](https://www.linkedin.com/in/rodrigo-revilla-b3a84a23b/)
-
 ## Sobre mi
 
 -  Backend developer
