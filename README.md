@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Rodrigo Revilla </a> 👋</h1>
+</div>
 
-<!--
-**RodrigoRevilla/RodrigoRevilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![x]]([https://youtube.com/aristidevs?sub_confirmation=1](https://twitter.com/RodrigoRevilla0))
+![LinkedIn](https://www.linkedin.com/in/rodrigo-revilla-b3a84a23b/)
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Backend developer
+-  Conocimientos en microsoft Azure (AZ900)
+-  Participante en el Hackaton 2022
+
+<br>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/RodrigoRevilla">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodrigoRevilla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodrigoRevilla&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
