@@ -6,7 +6,8 @@
 
 -  Backend developer
 -  Conocimientos en microsoft Azure (AZ900)
--  Participante en el Hackaton 2022
+-  Conocimientos en Go y Angular Material
+-  Conocimiento en automatizacion utilizando n8n
 
 <br>
 
